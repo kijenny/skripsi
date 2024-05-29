@@ -183,8 +183,7 @@ const SignIn = () => {
                 </svg>
               </span>
               <p className="2xl:px-20">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit
-                suspendisse.
+                Forecasting Website
               </p>
 
 
